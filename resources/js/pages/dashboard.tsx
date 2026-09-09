@@ -176,7 +176,6 @@ export default function Dashboard({
 
                 {/* Sales Chart (7 Hari Terakhir) & Top Products */}
                 <div className="grid gap-6 lg:grid-cols-7">
-                    {/* Visual 7-day Sales Bar Chart */}
                     <Card className="lg:col-span-4 border-neutral-200/80 shadow-xs dark:border-neutral-800">
                         <CardHeader>
                             <CardTitle className="text-base font-semibold text-neutral-900 dark:text-neutral-100">
